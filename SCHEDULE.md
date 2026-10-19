@@ -233,7 +233,7 @@ Report disputes during the match by pausing and contacting an admin, with eviden
 QSL tournament administration, applying the principles of competitive integrity and fairness.
 
 ## Footer
-Last Update : 2026-10-18
+Last Update : 2026-10-19
 
 **Test**  
 
