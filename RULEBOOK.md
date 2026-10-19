@@ -107,13 +107,13 @@ Administration may deny a substitution if it violates roster rules, materially d
 - **Accepted teams:** 16.  
 - **Entry fee:** 0 USD per team.  
 - **Total advertised prize pool:** 0 USD.  
-- **Format:** 2 teams qualify directly for the Playoffs; remaining teams contest a Swiss Stage for the remaining playoff places.  
+- **Format:** Tier 2 teams qualify directly for the Playoffs; remaining teams contest a Swiss Stage for the remaining playoff places.  
 - **Match format in playoffs:** BO3.  
 - **Grand Final format:** BO3, unless the listing says otherwise.  
 
 ### 2.2 VRS Direct Playoff Qualification
-- 2 teams qualify directly for the Playoffs based on the official VRS ranking snapshot dated **Not announced**.  
-- Direct places are awarded to the 2 highest-ranked eligible VRS teams among accepted registered entrants.  
+- Tier 2 teams qualify directly for the Playoffs based on the official VRS ranking snapshot dated **Not announced**.  
+- Direct places are awarded to the Tier 2 highest-ranked eligible VRS teams among accepted registered entrants.  
 - Direct qualification is a result of the published VRS ranking and the event's open-registration format; it is not an invitation to participate.  
 - A team must be registered, accepted, and eligible to receive a direct playoff place.  
 - If a team with a potential direct place is not registered or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team.  
@@ -125,14 +125,14 @@ Administration may deny a substitution if it violates roster rules, materially d
 - All Swiss Stage matches are **Best-of-One (BO1)**.  
 - A team qualifies for the Playoffs after recording **Not announced match wins**.  
 - A team is eliminated after recording **Not announced match losses**.  
-- Not announced teams qualify from the Swiss Stage to join the 2 VRS direct qualifiers in the Not announced-team Playoff bracket.  
+- Not announced teams qualify from the Swiss Stage to join the Tier 2 VRS direct qualifiers in the Not announced-team Playoff bracket.  
 - Teams are paired with opponents on the same or a comparable match record, subject to the pairing method announced by administration.  
 - Teams should not face the same opponent more than once in the Swiss Stage unless an unavoidable bracket or administrative issue requires an exception.  
 - Swiss pairings, seeding, match windows, and applicable tiebreak procedures will be published before the stage begins.  
 - If a team withdraws or is disqualified, QSL determines how its results and remaining pairings are handled, aiming to preserve competitive fairness.  
 
 ### 2.4 Playoffs
-- The Playoffs consist of **Not announced teams** in a single-elimination bracket: 2 VRS direct qualifiers and Not announced Swiss Stage qualifiers.  
+- The Playoffs consist of **Not announced teams** in a single-elimination bracket: Tier 2 VRS direct qualifiers and Not announced Swiss Stage qualifiers.  
 - Standard playoff matches are **BO3**.  
 - The Grand Final is **Best-of-Three (BO3)**, unless the event listing states otherwise.  
 - A team is eliminated after losing a playoff match.  
@@ -372,7 +372,7 @@ Administration may deny a substitution if it violates roster rules, materially d
 - **Q: Do all players need a Challengermode account and Not announced?**  
   A: Yes. Every player must use their own eligible Challengermode account and have Not announced running for official matches.  
 - **Q: How does VRS qualification work?**  
-  A: 2 eligible, registered teams with the highest rankings in the fixed **Not announced VRS snapshot** receive direct places in the Playoffs. These are direct playoff qualifications within an open-registration tournament, not invitations to participate.  
+  A: Tier 2 eligible, registered teams with the highest rankings in the fixed **Not announced VRS snapshot** receive direct places in the Playoffs. These are direct playoff qualifications within an open-registration tournament, not invitations to participate.  
 - **Q: What happens to teams that do not receive a direct VRS playoff place?**  
   A: They compete in the Swiss Stage. Swiss Stage matches are best-of-one (BO1). A team qualifies after Not announced wins and is eliminated after Not announced losses. Not announced teams advance to the Playoffs.  
 - **Q: What counts as a team's core?**  
