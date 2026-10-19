@@ -104,7 +104,7 @@ All times below use **CET**. The tournament is played online through Challengerm
 
 ## Seeding and Direct Playoff Qualification
 
-The tournament uses the **official global — filtered: 200 snapshot dated Not announced** to determine the Not announced direct Playoff qualifiers and the initial seeding structure.
+The tournament uses the **official Europe snapshot dated Not announced** to determine the Not announced direct Playoff qualifiers and the initial seeding structure.
 
 | Playoff Seed | Team Assignment |
 |---: | --- |
