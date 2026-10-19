@@ -8,15 +8,15 @@ This repository publishes details for the Test tournament organized by Quickshot
 |----------------------|---------------------------|
 | Game                 | CS2                 |
 | Region               | Global                |
-| Format               | TEst                |
+| Format               | Swiss to playoffs, BO3                |
 | Starts               | 2026-11-14 23:00 UTC                |
 | Prize                | 0 USD                 |
 | Entry                | 0 USD                 |
 | Capacity             | 16              |
 | Platform             | Challengermode              |
 | Listing              | https://qslgaming.pro/tournaments/test-dfece0                |
-| Tier                 | 2                  |
-| Lists                | global — filtered: 200                 |
+| Tier                 | Tier 2                  |
+| Lists                | Europe                 |
 | Start Rank           | 13            |
 | Invites              | 0 direct VRS, 0 wildcard              |
 | Invite Date          | 2026-10-18          |
