@@ -19,7 +19,7 @@
 
 **Test — Official tournament information, rules, schedule, and documentation.**
 
-**Online Global 2 CS2 Tournament · 16 Teams · 0 USD Entry Fee per Team · 0 USD Prize Pool · Challengermode · Not announced Required**
+**Online Global Tier 2 CS2 Tournament · 16 Teams · 0 USD Entry Fee per Team · 0 USD Prize Pool · Challengermode · Not announced Required**
 
 > Quickshot League runs this tournament. It is hosted on Challengermode. Registration is open. Matches are online in Global. The tournament includes a Swiss Stage followed by playoffs. VRS standings determine eligibility and seeding only; they are not direct invitations.
 
@@ -60,7 +60,7 @@
 
 *Final match times, registration/payment instructions, and VRS eligibility details will be confirmed through official Quickshot League channels.*
 
-Quickshot League operates as an open-registration 2 structured competition. VRS standings are referenced for eligibility and seeding integrity. This event does NOT utilize Direct VRS Invites. Every team enters through fully open registration, and the top Not announced seeded teams (determined by VRS rank) receive a bye directly to the Playoffs as a seeding outcome, not an invitation. This is a professionally-operated tournament adhering to competitive Counter-Strike 2 standards. Please follow the rule book. [`RULEBOOK.md`](RULEBOOK.md).
+Quickshot League operates as an open-registration Tier 2 structured competition. VRS standings are referenced for eligibility and seeding integrity. This event does NOT utilize Direct VRS Invites. Every team enters through fully open registration, and the top Not announced seeded teams (determined by VRS rank) receive a bye directly to the Playoffs as a seeding outcome, not an invitation. This is a professionally-operated tournament adhering to competitive Counter-Strike 2 standards. Please follow the rule book. [`RULEBOOK.md`](RULEBOOK.md).
 
 ## 2. Registration and Entry Fee
 
